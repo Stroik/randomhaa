@@ -86,7 +86,7 @@ export default function VideoPlayer({ initialVideo }: { initialVideo: Video }) {
           onClick={() => fetchVideos("/api/edibordial-video")}
           className="bg-zinc-600 hover:bg-zinc-700 text-white font-bold py-2 px-4 rounded"
         >
-          EDIBORDIAR ALEATORIA
+          EDIBORDIAL ALEATORIA
         </button>
       </div>
     </div>
